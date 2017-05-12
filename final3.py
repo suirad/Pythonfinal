@@ -1,4 +1,6 @@
+"Implements Question 3"
 from random import randint
+
 
 num1, num2 = randint(1, 100), randint(1,100)
 

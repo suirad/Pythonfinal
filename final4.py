@@ -1,3 +1,4 @@
+"Implements Question 4"
 from random import randint
 
 nums = list()

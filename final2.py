@@ -1,3 +1,4 @@
+"Implements Question 2"
 import math
 nums = range(1, 21)
 right_tris = list()
